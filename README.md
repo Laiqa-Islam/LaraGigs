@@ -55,7 +55,7 @@ MySQL
 Tailwind CSS
 JavaScript
 
-### **7. Contributing** _(Optional)_
+### **7. Contributing** 
 
 Contributions are welcome! Please submit a pull request or open an issue.
 
